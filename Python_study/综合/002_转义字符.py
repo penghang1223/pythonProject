@@ -9,10 +9,3 @@ print("hello\byou")
 print("hel\lo")
 # \\ 输出一个\
 print("\\")
-
-
-
-
-
-
-

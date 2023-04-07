@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import os
 
 # 创建目录以保存图像
-if not os.path.exists('images'):
-    os.makedirs('images')
+if not os.path.exists('../images'):
+    os.makedirs('../images')
 
 # 获取网站页面内容
 url = 'http://pic.netbian.com/'

@@ -158,8 +158,6 @@ aliens = []
 # print(f"Total number of aliens: {len(aliens)}")
 
 
-
-
 #
 # # 创建30个绿色的外星人。
 #
@@ -182,15 +180,15 @@ aliens = []
 aliens = []
 
 # 创建30个绿色的外星人。
-for alien_number in range (30):
+for alien_number in range(30):
     new_alien = {'color': 'yello', 'points': 5, 'speed': 'slow'}
     aliens.append(new_alien)
 
 for alien in aliens[:3]:
     if alien['color'] == 'green':
-       alien['color'] = 'yellow'
-       alien['speed'] = 'medium'
-       alien['points'] = 10
+        alien['color'] = 'yellow'
+        alien['speed'] = 'medium'
+        alien['points'] = 10
     elif alien["color"] == "yellow":
         alien["color"] = "blue"
         alien["speed"] = "fast"
@@ -203,4 +201,4 @@ for alien in aliens[:5]:
     print(alien)
 print("...")
 
-
+#  字典中key不可以变
