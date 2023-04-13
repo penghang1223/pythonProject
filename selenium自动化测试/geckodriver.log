@@ -1,0 +1,153 @@
+1681370283318	geckodriver	INFO	Listening on 127.0.0.1:60106
+1681370286346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQGgzXN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681370286978	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681370286993	Marionette	INFO	Listening on port 60114
+Read port: 60114
+WebDriver BiDi listening on ws://127.0.0.1:60107
+1681370287209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQGgzXN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60107/devtools/browser/cc71bda1-8aec-42c1-8ff1-a1ac6c130b5c
+console.error: ({})
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1681370479524	Marionette	INFO	Stopped listening on port 60114
+Dynamically enable window occlusion 1
+1681370615697	geckodriver	INFO	Listening on 127.0.0.1:60359
+1681370618754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehG5IwD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681370619315	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681370619321	Marionette	INFO	Listening on port 60371
+Read port: 60371
+WebDriver BiDi listening on ws://127.0.0.1:60360
+1681370619495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehG5IwD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60360/devtools/browser/09010339-1454-455d-88c8-054e50174933
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1681378593513	Marionette	INFO	Stopped listening on port 60371
+Dynamically enable window occlusion 1
+w-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXf3buX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681371159787	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681371159795	Marionette	INFO	Listening on port 60892
+Read port: 60892
+WebDriver BiDi listening on ws://127.0.0.1:60879
+1681371159989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXf3buX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60879/devtools/browser/abd93149-84ff-422e-9745-474924bc1cac
+console.error: ({})
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1681378592287	Marionette	INFO	Stopped listening on port 60892
+Dynamically enable window occlusion 1
+ settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681371364021	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681371364031	Marionette	INFO	Listening on port 61210
+Read port: 61210
+WebDriver BiDi listening on ws://127.0.0.1:61201
+1681371364368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZNVdEM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61201/devtools/browser/942ddbfa-d3ac-4b6d-b47b-466eece737d3
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1681372839716	Marionette	INFO	Stopped listening on port 61210
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1681372857182	geckodriver	INFO	Listening on 127.0.0.1:62143
+1681372860275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDlK4tI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681372860782	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681372860789	Marionette	INFO	Listening on port 62154
+Read port: 62154
+WebDriver BiDi listening on ws://127.0.0.1:62144
+1681372860978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDlK4tI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62144/devtools/browser/4cf7608e-8fcd-4e50-86dd-d9f08ca33de1
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1681372947407	Marionette	INFO	Stopped listening on port 62154
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1681372950124	geckodriver	INFO	Listening on 127.0.0.1:62362
+1681372953191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSFhhYM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681372953960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681372953969	Marionette	INFO	Listening on port 62374
+Read port: 62374
+WebDriver BiDi listening on ws://127.0.0.1:62363
+1681372954188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSFhhYM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62363/devtools/browser/3b10452b-5286-4085-8a8e-206b9b950502
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1681378594746	Marionette	INFO	Stopped listening on port 62374
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileb2InfH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681374991210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681374991224	Marionette	INFO	Listening on port 63659
+Read port: 63659
+WebDriver BiDi listening on ws://127.0.0.1:63650
+1681374991427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileb2InfH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63650/devtools/browser/3c663cb5-0e94-45fd-8941-b2ef03736c96
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1681378584932	Marionette	INFO	Stopped listening on port 63659
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile53Xy0s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681377872278	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681377872286	Marionette	INFO	Listening on port 65418
+Read port: 65418
+WebDriver BiDi listening on ws://127.0.0.1:65409
+1681377872513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile53Xy0s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65409/devtools/browser/0971a8bf-72f3-4dab-99c9-b8e41ac2f60d
+JavaScript error: https://www.epubit.com/static/editor.md/editormd.js, line 43: ReferenceError: Zepto is not defined
+console.error: ({})
+JavaScript error: https://www.epubit.com/static/js/app.b3271d0469b6ac9cbf49.js, line 1: ReferenceError: Vue is not defined
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1681378583994	Marionette	INFO	Stopped listening on port 65418
+Dynamically enable window occlusion 1
+rn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681378254499	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681378254509	Marionette	INFO	Listening on port 49337
+Read port: 49337
+WebDriver BiDi listening on ws://127.0.0.1:49330
+1681378254693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSHCOMk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49330/devtools/browser/13f063c9-f348-449b-8774-b1d83ed2cad1
+JavaScript error: https://www.epubit.com/static/editor.md/editormd.js, line 43: ReferenceError: Zepto is not defined
+1681378582955	Marionette	INFO	Stopped listening on port 49337
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
